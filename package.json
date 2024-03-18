@@ -1,0 +1,20 @@
+{
+  "name": "js-canvas-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox for creative graphic javascript",
+  "author": "Adrien Husson",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@types/dat.gui": "^0.7.12",
+    "@types/node": "^20.11.28",
+    "dat.gui": "^0.7.9",
+    "simplex-noise": "^4.0.1",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.5"
+  }
+}
