@@ -60,7 +60,6 @@ const main = async (): Promise<void> => {
       for (let j = 0; j < params.columns; j++) {
         if (Math.sqrt((i - radius) ** 2 + (j - radius) ** 2) < radius) {
           ctx.save();
-          ctx.scale(0.9, 0.9);
           const delta =
             10 +
             10 *
