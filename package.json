@@ -13,7 +13,7 @@
     "@types/dat.gui": "^0.7.12",
     "@types/node": "^20.11.28",
     "dat.gui": "^0.7.9",
-    "simplex-noise": "^4.0.1",
+    "perlin-noise-2d": "^1.0.0",
     "typescript": "^5.4.2",
     "vite": "^5.1.5"
   }
